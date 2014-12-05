@@ -1,0 +1,9 @@
+<a href="01.PersonalInfo.php">01.Personal Info</a><br />
+<a href="02.SumTwoNumbers.php">02.Sum Two Numbers</a><br />
+<a href="03.DumpVariable.php">03.Dump Variable</a><br />
+<a href="04.NonRepeatingDigits.php">04.NonRepeating Digits</a><br />
+<a href="05.LazySundays.php">05.Lazy Sundays</a><br />
+<a href="06.HTMLTable.php">06.HTML Table</a><br />
+<a href="07.FormData.php">07.Form Data</a><br />
+<a href="08.TimeUntilNewYear.php">08.TimeUntil NewYear</a><br />
+<a href="09.AwesomeCalendar.php">09.Awesome Calendar</a><br />
