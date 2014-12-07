@@ -1,0 +1,50 @@
+body, main, section, p, header, footer, ul, li{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Calibri;
+}
+section{
+    width: 851px;
+    border-top: 1px solid #000;
+}
+
+section > header{
+    text-align: center;
+    font-size: 60px;
+    font-weight: bold;
+    border-bottom: 1px solid #000;
+}
+
+section > article {
+    width: 200px;
+    margin-left: 10px;
+    display: inline-block;
+
+}
+
+section > article > header{
+    height: 20px;
+    vertical-align: top;
+    text-align: center;
+    font-weight: bold;
+}
+section > article > table {
+    margin: 0 auto;
+    width: 100%;
+    border-top: 1px solid #000;
+}
+
+section > article > table th {
+    font-weight: 300;
+    border-bottom: 1px solid #000;
+}
+
+section > article > table th:last-child {
+    color: #F00;
+}
+
+section > article > table td {
+    font-weight: normal;
+    text-align: center;
+}
